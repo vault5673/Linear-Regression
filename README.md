@@ -1,7 +1,6 @@
 🏠 Housing Price Prediction using Linear Regression
 This project focuses on predicting housing prices using multiple linear regression.
 It includes data cleaning, preprocessing, exploratory data analysis (EDA), feature scaling, model building, and model evaluation.
-
 📁 Dataset Overview
 Source: Housing Price Dataset (Housing.csv)
 Features:
@@ -37,5 +36,4 @@ Mean Absolute Error (MAE): 0.20
 Mean Squared Error (MSE): 0.08
 📈 Model Intercept
 The intercept represents the baseline value of the predicted price when all feature values are zero (after scaling).
-
 Intercept: -0.002812275771309709
